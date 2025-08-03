@@ -1,3 +1,1 @@
-# Lesson1Assignment
-
-This will be the home of the first assignment.
+This project contains two files: ‘index.html’ and ‘schedule_meeting.html’.
